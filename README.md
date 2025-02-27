@@ -1,1 +1,1 @@
-this is my todo list all you need to do is click add list and type in the dropdown. if you want to delete a list just use the bar in the middle to select the list and click the remove list button
+this is my todo list all you need to do is click add list and type in the dropdown. to edit click the edit button after the list is made.if you want to delete a list just use the bar in the middle to select the list and click the remove list button
